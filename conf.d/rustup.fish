@@ -1,1 +1,1 @@
-set --export PATH $PATH $HOME/.cargo/bin
+set --export PATH $HOME/.cargo/bin $PATH
